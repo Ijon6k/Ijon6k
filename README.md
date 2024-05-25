@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ijon</h1>
 <h3 align="center">First-year CS student with a passion for design & front-end. Exploring frameworks (Express.js, Hono.js, Elysia.js) & Bun runtime. Eager to contribute to open-source & collaborate!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ijon6k&label=Profile%20views&color=e1add6&style=flat" alt="ijon6k" /> </p>
 
 - 🌱 I’m currently learning **ExpressJS, HonoJS, ElysiaJS, Bun Runtime**
 
