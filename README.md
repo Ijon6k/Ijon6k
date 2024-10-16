@@ -2,7 +2,7 @@
 <h3 align="center">First-year CS student with a passion for design & front-end. Exploring frameworks (Express.js, Hono.js, Elysia.js) & Bun runtime. Eager to contribute to open-source & collaborate!</h3>
 
 
-- 🌱 I’m currently learning **ExpressJS, HonoJS, ElysiaJS, Bun Runtime**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -12,4 +12,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ijon6k&show_icons=true&theme=dark&title_color=fdecfd&text_color=f9e6f6&locale=en" alt="ijon6k" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ijon6k&theme=dark" alt="ijon6k" /></p>
+
